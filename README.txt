@@ -1,0 +1,1 @@
+Ponderate average between three numbers certain times.

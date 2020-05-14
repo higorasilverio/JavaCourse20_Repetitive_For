@@ -10,9 +10,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("*** Ponderate average between three numbers certain times ***");
-		System.out.println();
-
 		System.out.print("How many times we will verify? ");
 		int quantity = scanner.nextInt();
 		for (int i = 0; i < quantity; i++) {
